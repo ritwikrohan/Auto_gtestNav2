@@ -1,4 +1,4 @@
-# WaypointCI
+# Nav2 gtest CI
 
 Automated CI/CD testing platform for robot waypoint navigation with Jenkins orchestration, Docker containerization, and Google Test validation.
 
